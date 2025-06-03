@@ -12,7 +12,6 @@ Ideal for beginners on Windows 10, especially those with slower laptops, with an
 
 ## README.md
 
-````markdown
 # Reel-Shorts Controller (Hand Gesture Control for YouTube Shorts)
 
 Control your YouTube Shorts or Instagram Reels with simple hand gestures — no mouse or keyboard needed!
