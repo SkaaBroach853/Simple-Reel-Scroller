@@ -94,34 +94,6 @@ python your_script_name.py
 
 ---
 
-## Fun Upload Instructions
-
-Ready to upload your awesome code? Here's the fun way to do it:
-
-1. Activate your virtual environment like a coding ninja:
-
-   ```powershell
-   .\venv\Scripts\Activate.ps1
-   ```
-2. Stage your changes with flair:
-
-   ```bash
-   git add .
-   ```
-3. Commit with a message that makes your fingers smile:
-
-   ```bash
-   git commit -m "Thumb and index finger magic activated, mouth control retired"
-   ```
-4. Push it to GitHub like shouting “Look what I made!” from the rooftops:
-
-   ```bash
-   git push
-   ```
-5. Sit back and enjoy your code doing finger push-ups on reels worldwide!
-
----
-
 ## License
 
 MIT License (feel free to modify and share)
