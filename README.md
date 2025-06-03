@@ -10,7 +10,6 @@ Ideal for beginners on Windows 10, especially those with slower laptops, with an
 
 ---
 
-## README.md
 
 # Reel-Shorts Controller (Hand Gesture Control for YouTube Shorts)
 
