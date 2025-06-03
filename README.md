@@ -98,4 +98,4 @@ MIT – Free to modify and share
 
 ---
 
-Made with 👆👇 and 😄 by AD
+Made with ❤ and 😄 by AD
